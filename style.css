@@ -1,5 +1,7 @@
 #myCanvas{
     border-width: 5px;
+    border-color: black;
+    border-style: dashed;
     background-color: white;
     margin-top: 2px;
     margin-bottom: 2px;
